@@ -3,7 +3,7 @@ Global class to get Hbbtv info
 
 ##Usage:
 
-Add library (It's global) and create an instance of HbbtvInf! That's all.
+Add library (It's global) and create an instance of HbbtvInf, That's all!
 
 ```html
 <script type='text/javascript' src="Hbbtv.js"></script>
